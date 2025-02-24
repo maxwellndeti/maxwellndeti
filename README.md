@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @maxwellndeti
-- 👀 I’m interested in coding 
-- 🌱 I’m currently learning ify
-- 💞️ I’m looking to collaborate on programming 
-- 📫 How to reach me 0798557113
+-  I’m @maxwellndeti
+- 👀 I'm focused on bieng able to write codes which are useful to the society  
+- i want to fully understand JavaScript 
+- i want to be able to create websites which enhance marketing 
+- 📫 How to reach me 0798557113 or maxwellndeti65@gmail.com
   
 
 <!---
